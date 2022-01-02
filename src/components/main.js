@@ -1,6 +1,6 @@
 function Main() {
   return (
-    <div>
+    <div className='main'>
       <h1>Reasons I'm excited to learn React</h1>
       <ol>
         <li>

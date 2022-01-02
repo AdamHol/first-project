@@ -1,7 +1,9 @@
 function Footer() {
   return (
-    <footer>
-      <small>© 2021 Adams development. All rights reserved.</small>
+    <footer className='footer'>
+      <small className='footer-text'>
+        © 2021 Adams development. All rights reserved.
+      </small>
     </footer>
   );
 }
